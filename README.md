@@ -2,4 +2,4 @@
 Data analytical visualization using Tableau
 
 
-This shows sample from images
+![images1](Bubbles/bubble1.png)
